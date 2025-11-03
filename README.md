@@ -1,1 +1,1 @@
-## first attempt making a machine learning project from youtube turtorial. Thanks Krish Naik for created such a great tutorial. You can find it here https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2.
+## Practice making a machine learning project from youtube turtorial. Thanks Krish Naik for created such a great tutorial. You can find it here https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2.
